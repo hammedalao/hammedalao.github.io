@@ -135,7 +135,8 @@ html {
 body {
     padding-top: 50px;
     position: relative;
-    background-image: url("../image/dark-black-website-background.jpg");
+    background-color: white;
+    
     margin-bottom:0px;
     margin-left:0px;
     margin-right:0px;
